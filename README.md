@@ -184,10 +184,6 @@ You can package the desktop app as a Windows `.exe` using [Inno Setup](https://j
 
 ---
 
-Yes, adding a bit of context is a good idea—it helps readers understand **what they’re looking at** and why some data is blurred. Here’s a clean way to do it:
-
----
-
 ## Screenshots
 
 > Note: I had to blur/distort some of the sensitive data such as name for confidentiality.
